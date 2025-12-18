@@ -21,6 +21,22 @@ Multi-step student profile onboarding
 
 Single codebase supporting all major platforms
 
+Screenshots:
+
+Destop:
+<Img src="">
+<br>
+<br>
+<br>
+Tablet:
+<Img src="">
+<br>
+<br>
+<br>
+Mobile:
+<Img src="">
+<br>
+<br>
 
 
 ---
@@ -140,8 +156,7 @@ Setup Steps
 
 Clone the repository:
 
-git clone https://github.com/Aptech-Flutter-Project-Thr/CampusConnect.git
-cd CampusConnect
+git clone [https://github.com/Gods-Peare/Campus_connect/edit/main]
 
 Install dependencies:
 
