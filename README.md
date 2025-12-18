@@ -21,20 +21,22 @@ Multi-step student profile onboarding
 
 Single codebase supporting all major platforms
 
+---
+
 Screenshots:
 
 Destop:
-<Img src="">
+<Img src="lib/Deskop.png">
 <br>
 <br>
 <br>
 Tablet:
-<Img src="">
+<Img src="lib/Tablet.png">
 <br>
 <br>
 <br>
 Mobile:
-<Img src="">
+<Img src="lib/Mobile.png">
 <br>
 <br>
 
